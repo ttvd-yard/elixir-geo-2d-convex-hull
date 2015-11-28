@@ -1,4 +1,4 @@
-defmodule Geo2d do
+defmodule Geo2d.ConvexHull do
 
   @spec compute_points([Point2]) :: [Point2]
   def compute_points(points) do
