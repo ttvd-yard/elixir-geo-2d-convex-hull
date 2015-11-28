@@ -1,13 +1,11 @@
-defmodule Geo2DConvexHull do
-  require Geo2DTypes.Point2
-  #alias Geo2DTypes.Point2, as: point2
+defmodule Geo2d do
 
-  @spec compute_points([Geo2DTypes.Point2]) :: [Geo2DTypes.Point2]
+  @spec compute_points([Point2]) :: [Point2]
   def compute_points(points) do
     []
   end
 
-  @spec compute_indices([Geo2DTypes.Point2]) :: [Geo2DTypes.Point2]
+  @spec compute_indices([Point2]) :: [Point2]
   def compute_indices(points) do
     []
   end

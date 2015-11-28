@@ -1,4 +1,4 @@
-defmodule Geo2DConvexHull.Mixfile do
+defmodule Geo2d.Mixfile do
   use Mix.Project
 
   def project do
