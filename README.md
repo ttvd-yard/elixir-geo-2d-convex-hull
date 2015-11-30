@@ -1,6 +1,6 @@
 # elixir-geo-2d-convex-hull
 
-Compute a 2d convex hull of a set of points.
+Compute a 2d convex hull of a set of points using Monotone chain algorithm.
 
 ## Dependencies
 * [elixir-geo-2d-types](https://github.com/ttvd/elixir-geo-2d-types)
