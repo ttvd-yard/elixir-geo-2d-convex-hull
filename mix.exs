@@ -18,7 +18,7 @@ defmodule Geo2d.Mixfile do
 
   defp deps do
     [
-      { :geo_2d_types, github: "ttvd/elixir-geo-2d-types"}
+      { :geo_2d_types, github: "ttvd/elixir-geo-2d-convex-hull"}
     ]
   end
 
